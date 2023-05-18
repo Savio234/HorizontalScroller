@@ -176,21 +176,21 @@ const Home = () => {
         <h3 className={styles.scrollerText}>Footer</h3>
       </div>
 
-      <section className={styles.container}>
+      {/* <section className={styles.container}>
         <div data-scroll-section className={styles.containerChild}>
-          {/* <div className={styles.background}></div> */}
+          <div className={styles.background}></div>
           <div className={styles.letter}>F</div>
         </div>
 
         <div className={styles.containerChild}>
-          {/* <div className={styles.background}></div> */}
+          <div className={styles.background}></div>
           <div className={styles.letter}>O</div>
         </div>
         <div className={styles.containerChild}>
-          {/* <div className={styles.background}></div> */}
+          <div className={styles.background}></div>
           <div className={styles.letter}>R</div>
         </div>
-      </section>
+      </section> */}
     </>
   )
 }
